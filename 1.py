@@ -8,3 +8,4 @@ def H(n, a, c):
     print (n, a, c)
     H(n-1, b, c)
 print (*H(n, 1, 3))
+print('')
